@@ -1,0 +1,13 @@
+Range 0.  100000 (cm-1)
+
+
+Temperature 296.0
+abundance 0.992687
+
+Absorption
+Stick
+
+output 14N2_v80_J80
+
+States       ../../Duo/14N2/14N2_v80_J80.states
+Transitions  ../../Duo/14N2/14N2_v80_J80.trans

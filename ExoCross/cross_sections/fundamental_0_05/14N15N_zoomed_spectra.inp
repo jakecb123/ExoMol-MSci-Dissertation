@@ -1,0 +1,14 @@
+Temperature 3000 (K)
+Range 1600. 2900 (cm-1)
+
+abundance 0.00729916
+Absorption
+gaussian
+HWHM 0.05
+
+Npoints 100001
+
+output 14N15N_0_05_fund_3000K
+
+States       ../../../Duo/14N15N/14N15N_v80_J80.states
+Transitions  ../../../Duo/14N15N/14N15N_v80_J80.trans

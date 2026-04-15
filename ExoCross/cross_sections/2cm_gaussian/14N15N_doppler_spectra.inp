@@ -1,0 +1,14 @@
+Temperature 50 (K)
+Range 0. 5000 (cm-1)
+
+abundance 0.00729916
+Absorption
+gaussian
+HWHM 2
+
+Npoints 100001
+
+output 14N15N_2cm_50K
+
+States       ../../../Duo/14N15N/14N15N_v80_J80.states
+Transitions  ../../../Duo/14N15N/14N15N_v80_J80.trans

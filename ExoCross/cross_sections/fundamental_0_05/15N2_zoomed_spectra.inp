@@ -1,0 +1,14 @@
+Temperature 296 (K)
+Range 1600. 2900 (cm-1)
+
+abundance 0.00000134176
+Absorption
+gaussian
+HWHM 0.05
+
+Npoints 100001
+
+output 15N2_0_05_fund_296K
+
+States       ../../../Duo/15N2/15N2_v80_J80.states
+Transitions  ../../../Duo/15N2/15N2_v80_J80.trans

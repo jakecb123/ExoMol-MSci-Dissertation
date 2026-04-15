@@ -1,0 +1,11 @@
+abundance 0.992687
+
+partfunc
+ tempmax 9000
+ ntemps  9000
+end
+
+output 14N2_partfunc
+
+States       ../../Duo/14N2/14N2_v80_J80.states
+Transitions  ../../Duo/14N2/14N2_v80_J80.trans
